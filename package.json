@@ -1,0 +1,33 @@
+{
+  "name": "parallex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development parcel public/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josiahjswab/parallex.git"
+  },
+  "author": "josiah swab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josiahjswab/parallex/issues"
+  },
+  "homepage": "https://github.com/josiahjswab/parallex#readme",
+  "dependencies": {
+    "autoprefixer": "^9.7.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.17.1",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "sass": "^1.23.3"
+  },
+  "keywords": [],
+  "description": ""
+}
